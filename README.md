@@ -14,6 +14,12 @@ wget http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
 # Unzip the data using
 unzip Filename
 ```
+# Results of ANN
+Test Loss: 1.507585
+Model Accuracy : 95.63%
 
+# Results of CNN
+Test Loss: 1.475990
+Model Accuracy : 98.58%
 
 
